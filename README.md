@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Tanadon 👋
 
-<!--
-**imnotconcrete/imnotconcrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student with experience in startups as a technical lead and full-stack developer.
 
-Here are some ideas to get you started:
+## Work Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🚗 [**Carsup**](https://www.carsup.co/) - Co-Founder, Technical Lead, Full-stack Developer, 1st Place award and Thailand Representative of Global Student Entrepreneur
+-   📈 [**Doji**](https://www.doji.space) - Co-Founder, Full-stack Developer, Chulalongkorn Representative of Startup Thailand League
+-   ⚙️ [**ESC Chula**](https://github.com/esc-chula) - President of IT Department, Engineering Student Committee, Chulalongkorn University
+-   🧘 [**Soul Silent**](https://www.instagram.com/soulsilent.official/) - Full-stack Developer
+-   📚 [**ISD SGCU**](https://github.com/isd-sgcu) - Mobile developer
+-   🎮 [**Gamlytics**](https://www.gamlytics.co) - Backend & Devops developer
+-   💡 [**Thinc**](https://github.com/thinc-org) - Member of Thinc. Chula
+
+## Get in touch
+
+-   🌐 [tanadon.com](https://tanadon.com)
+-   💼 [LinkedIn](https://www.linkedin.com/in/tanadon-santisan-16850318b/)
+-   📷 [Instagram](https://www.instagram.com/poonisnotconcrete/)
+-   ✉️ [tanadon.santisan@gmail.com](mailto:tanadon.santisan@gmail.com)
