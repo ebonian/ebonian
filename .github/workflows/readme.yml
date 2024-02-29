@@ -1,4 +1,4 @@
-name: Python script
+name: Readme Update
 
 on:
   push:
