@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '15 8,14,20 * * 1-6'
+    - cron: '15 1,3,6 * * 1-6'
 
 jobs:
   run-python-script:
@@ -31,7 +31,7 @@ jobs:
         
     - name: Run Python script And Commit
       run:  |
-        python ./scripts/readme.py
+        python ./scripts/update-readme.py
         git config --global user.email "${{ secrets.USER_EMAIL }}"
         git config --global user.name "${{ secrets.USER_NAME }}"
         git add README.md
