@@ -1,4 +1,4 @@
-name: Readme Update
+name: Update README.md
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '15 8,14,20 * * 1-6'
+    - cron: '15  8,14,20 * * 1-6'
 
 jobs:
   run-python-script:
