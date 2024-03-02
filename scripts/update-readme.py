@@ -16,7 +16,7 @@ for i, line in enumerate(file_contents):
         line = re.sub(r'\s*\S$', '', line)
         new_emojis = [emoji for emoji in emojis if emoji != existing_emoji[0]]
         random_emoji = random.choice(new_emojis)
-        file_contents[i] = line.rstrip() + f" {random_emoji}\n"
+        file_contents[i] = phrase + f" {random_emoji}\n"
         break
 
 with open(filename, mode="w", encoding="utf-8") as file:
