@@ -1,4 +1,4 @@
-# Hi, I'm Tanadon 👨‍💻
+# Hi, I'm Tanadon 👩‍💻
 
 I'm an engineering student with experience in startups as a technical lead and full-stack developer.
 
