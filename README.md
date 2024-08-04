@@ -1,4 +1,4 @@
-# Hi, I'm Tanadon :speech_balloon:
+# Hi, I'm Tanadon :wave:
 
 I'm an engineering student with experience in startups as a technical lead and full-stack developer.
 
